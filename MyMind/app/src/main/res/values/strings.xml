@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Mind</string>
+    <string name="app_name_2">My Likes</string>
+    <string name="app_name_3">Consequences</string>
+    <string name="app_name_4">My Checklists</string>
+    <string name="app_name_5">My Thoughts</string>
+    <string name="app_title_1">Strike the word "INCOMPLETE" from your dictionary!</string>
+    <string name="app_title_2">Know more about yourself!</string>
+    <string name="app_title_3">Motivate yourself!</string>
+    <string name="app_title_4">Your mind visualised!</string>
+    <string name="app_title_5">Your mind categorised!</string>
+    <string name="app_title_6">See whats happening in your mind!</string>
+    <string name="app_title_7">See how your mind works!</string>
+    <string name="app_title_8">Flatten your mind!</string>
+    <string name="app_title_9">Face your mind!</string>
+</resources>
