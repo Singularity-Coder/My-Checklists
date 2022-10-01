@@ -1,2 +1,2 @@
-# My-Checklists
-Strike the word "INCOMPLETE" from your dictionary!
+# My Mind
+See what's happening in your mind!
