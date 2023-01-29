@@ -9,8 +9,11 @@
     <string name="app_title_3">Motivate yourself!</string>
     <string name="app_title_4">Your mind visualised!</string>
     <string name="app_title_5">Your mind categorised!</string>
-    <string name="app_title_6">See whats happening in your mind!</string>
+    <string name="app_title_6">See what's happening in your mind!</string>
     <string name="app_title_7">See how your mind works!</string>
     <string name="app_title_8">Flatten your mind!</string>
     <string name="app_title_9">Face your mind!</string>
+    <string name="app_title_10">Manifest your mind!</string>
+    <string name="app_title_11">Materialize your mind!</string>
+    <string name="app_title_12">Touch your mind!</string>
 </resources>
